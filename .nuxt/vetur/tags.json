@@ -1,0 +1,29 @@
+{
+  "FormComponent": {
+    "description": "Auto imported from components/FormComponent.vue"
+  },
+  "FormPivotTable": {
+    "description": "Auto imported from components/FormPivotTable.vue"
+  },
+  "FormPlan": {
+    "description": "Auto imported from components/FormPlan.vue"
+  },
+  "FormPlanCareer": {
+    "description": "Auto imported from components/FormPlanCareer.vue"
+  },
+  "FormQualification": {
+    "description": "Auto imported from components/FormQualification.vue"
+  },
+  "FormSelfAssessment": {
+    "description": "Auto imported from components/FormSelfAssessment.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/test.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "FormComponent",
+    "path": "/FormComponent",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\FormComponent.vue",
+    "chunkName": "pages/FormComponent"
+  },
+  {
+    "name": "FormPivotTable",
+    "path": "/FormPivotTable",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\FormPivotTable.vue",
+    "chunkName": "pages/FormPivotTable"
+  },
+  {
+    "name": "FormPlan",
+    "path": "/FormPlan",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\FormPlan.vue",
+    "chunkName": "pages/FormPlan"
+  },
+  {
+    "name": "FormPlanCareer",
+    "path": "/FormPlanCareer",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\FormPlanCareer.vue",
+    "chunkName": "pages/FormPlanCareer"
+  },
+  {
+    "name": "FormQualification",
+    "path": "/FormQualification",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\FormQualification.vue",
+    "chunkName": "pages/FormQualification"
+  },
+  {
+    "name": "FormSelfAssessment",
+    "path": "/FormSelfAssessment",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\FormSelfAssessment.vue",
+    "chunkName": "pages/FormSelfAssessment"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Project\\\\Nuxt-ICP-V4\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
